@@ -17,13 +17,13 @@ Eu adoro dissecar como os sistemas realmente funcionam, sempre procuro mexer nas
 
 Há algo poético em um código que ou funciona ou falha espetacularmente (sem desculpas do "funciona na minha máquina").
 
-`java
+```java
 public class WhyBackend {
      public static void main(String[] args) {
          System.out.println("Front-end? Nunca ouvi falar.");
 }
 }
-`
+```
 Quando não estou lutando contra NullPointerExceptions:
 
 Jogando partidas de xadrez para passar o tempo
@@ -35,4 +35,4 @@ Escrevendo scripts em Bash para automatizar minha vida no Ubuntu.
 Trilha Sonora das Minhas Sessões de Codígo a base de café:
 
 "In the end, it doesn't even matter..."
-System.out.println("...Linkin park é para sempre")
+System.out.println("...Linkin park é para sempre");
